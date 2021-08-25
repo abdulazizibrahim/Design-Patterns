@@ -5,7 +5,7 @@ import java.util.ArrayList;
 /**
  * Represents a student and their scores in a class.
  * Stores the name, assignment scores and exam scores.
- * @author Jill Seaman
+ * @author Abdul Aziz Ibrahim
  *
  */
 public class Student {
