@@ -5,7 +5,7 @@ import java.util.Iterator;
 
 /**
  *  Driver to test the Roster/Student classes.
- *  @author Jill Seaman
+ *  @author Abdul Aziz Ibrahim
  */
 
 public class Driver {
